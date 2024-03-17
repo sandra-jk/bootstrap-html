@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel --open",
     "build": "parcel build"
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sandra-jk/bootstrap-html.git"
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sandra-jk/bootstrap-html#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
     "parcel": "^2.12.0"
   },
   "dependencies": {
